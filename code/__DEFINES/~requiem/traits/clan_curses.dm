@@ -1,0 +1,6 @@
+#define TRAIT_HALF_DAMNED_CURSE "half_damned_curse"
+#define TRAIT_LONELY_CURSE "lonely_curse"
+#define TRAIT_TENEBROUS_CURSE "tenebrous_curse"
+#define TRAIT_FERAL_CURSE "feral_curse"
+#define TRAIT_ALOOF_CURSE "aloof_curse"
+#define TRAIT_WANTON_CURSE "wanton_curse"
