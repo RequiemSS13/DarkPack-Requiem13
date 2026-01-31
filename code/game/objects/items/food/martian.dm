@@ -650,7 +650,7 @@
 
 /obj/item/food/epok_epok
 	name = "epok-epok"
-	desc = "A fried pastry snack from Malaysia. Stuffed with curried chicken and potatoes, alongside a slice of hard boiled egg, it's a popular street food in San Francisco." // DARKPACK EDIT CHANGE
+	desc = "A fried pastry snack from Malaysia. Stuffed with curried chicken and potatoes, alongside a slice of hard boiled egg, it's a popular street food in Los Angeles." // DARKPACK EDIT CHANGE
 	icon = 'icons/obj/food/martian.dmi'
 	icon_state = "epok_epok"
 	food_reagents = list(
@@ -887,7 +887,7 @@
 
 /obj/item/food/feizhou_ji
 	name = "fēizhōu jī"
-	desc = "Considered a Macanese variant on piri-piri, fēizhōu jī, or galinha à africana, or African chicken (if you're feeling like speaking English), is a popular dish in the region, and subsequently also in San Francisco due to its influx of Macanese immigrants." // DARKPACK EDIT CHANGE - not satisfied with this one
+	desc = "Considered a Macanese variant on piri-piri, fēizhōu jī, or galinha à africana, or African chicken (if you're feeling like speaking English), is a popular dish in the region, and subsequently also in Los Angeles due to its influx of Macanese immigrants." // DARKPACK EDIT CHANGE - not satisfied with this one
 	icon = 'icons/obj/food/martian.dmi'
 	icon_state = "feizhou_ji"
 	food_reagents = list(

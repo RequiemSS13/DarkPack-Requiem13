@@ -1,6 +1,6 @@
 /datum/language/korean
 	name = "Korean"
-	desc = "Korean is spoken in Korea, as well as being the eighth most spoken language in San Francisco."
+	desc = "Korean is spoken in Korea, as well as being the eighth most spoken language in Long Beach."
 	flags = TONGUELESS_SPEECH
 	key = "K"
 	space_chance = 100
